@@ -7,7 +7,7 @@
 [![PSP22](https://img.shields.io/badge/PSP22-Fully%20Compliant-blue.svg)](https://github.com/w3f/PSPs/blob/master/PSPs/psp-22.md)
 [![Ink!](https://img.shields.io/badge/Ink!-5.1.1-purple.svg)](https://use.ink/)
 
-> **WLUNES is an enterprise-grade wrapped token for native LUNES on Lunes Network. Features maximum security with OWASP Top 10 2025 compliance, rate limiting, pattern detection, and 25-30% gas optimization. Fully PSP22 compliant for seamless Lunex DEX integration.**
+> **WLUNES enables native LUNES tokens to participate in DeFi protocols and decentralized exchanges. By wrapping LUNES into a PSP22-compliant token, users can trade, provide liquidity, and interact with smart contracts while maintaining a guaranteed 1:1 backing with native LUNES tokens.**
 
 ## 🌟 Key Features
 
